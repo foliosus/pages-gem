@@ -30,6 +30,7 @@ class GitHubPages
       "jekyll-redirect-from"    => "0.8.0",
       "jekyll-sitemap"          => "0.9.0",
       "jekyll-feed"             => "0.3.1",
+      "jekyll-last-modified-at" => "0.3.4",
     }
   end
 
